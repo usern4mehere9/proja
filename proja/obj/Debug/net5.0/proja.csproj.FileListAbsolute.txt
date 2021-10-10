@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\proja\proja\obj\Debug\net5.0\proja.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\proja\proja\obj\Debug\net5.0\proja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\proja\proja\obj\Debug\net5.0\proja.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\proja\proja\obj\Debug\net5.0\proja.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\proja\proja\obj\Debug\net5.0\proja.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\proja\proja\bin\Debug\net5.0\proja.exe
+C:\Users\Nikola\source\repos\proja\proja\bin\Debug\net5.0\proja.deps.json
+C:\Users\Nikola\source\repos\proja\proja\bin\Debug\net5.0\proja.runtimeconfig.json
+C:\Users\Nikola\source\repos\proja\proja\bin\Debug\net5.0\proja.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\proja\proja\bin\Debug\net5.0\proja.dll
+C:\Users\Nikola\source\repos\proja\proja\bin\Debug\net5.0\ref\proja.dll
+C:\Users\Nikola\source\repos\proja\proja\bin\Debug\net5.0\proja.pdb
+C:\Users\Nikola\source\repos\proja\proja\obj\Debug\net5.0\proja.dll
+C:\Users\Nikola\source\repos\proja\proja\obj\Debug\net5.0\ref\proja.dll
+C:\Users\Nikola\source\repos\proja\proja\obj\Debug\net5.0\proja.pdb
+C:\Users\Nikola\source\repos\proja\proja\obj\Debug\net5.0\proja.genruntimeconfig.cache
